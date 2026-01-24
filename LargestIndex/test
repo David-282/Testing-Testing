@@ -1,0 +1,2 @@
+java -jar junit-platform-console-standalone-1.10.3.jar --class-path . --select-class LargestIndexTest --details=verbose
+
